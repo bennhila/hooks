@@ -1,0 +1,15 @@
+.card{
+    /* display: flex; */
+    justify-content: space-between;
+    margin-left: 3%;
+    /* height: 100PX; */
+    width: 19REM;   
+
+    margin-top: 3%;
+    text-align: center;
+    display: inline-block;
+    /* width: 25%; */
+    }
+
+
+
